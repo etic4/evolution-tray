@@ -1,5 +1,6 @@
 # Evolution-tray
-Un indicateur d'emails pour la barre système de l'environnement de bureau Gnome.
+Un indicateur d'emails pour la barre système de l'environnement de bureau Gnome. Devrait fonctionner sur d'autres environnements de bureau.
+
 
 Affiche les emails non lus pour tous les comptes actifs d'Evolution mail.
 
